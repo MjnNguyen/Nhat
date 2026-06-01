@@ -1,0 +1,6 @@
+{
+  "name": "Thiết Kế Sân Khấu Pro",
+  "description": "Tự động thiết kế sân khấu, xuất bản vẽ và phát sinh báo giá PDF chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
